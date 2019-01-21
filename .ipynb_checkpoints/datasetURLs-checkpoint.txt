@@ -1,6 +1,0 @@
-Put all dataset URLs here. Because we can't put them in the repo as they consume too much space.
-
-SparkSQL Lab:
-	Gutenberg Dataset (440M compressed - 1.2GB uncomperessed): https://drive.google.com/file/d/0B2Mzhc7popBga2RkcWZNcjlRTGM/edit
-	1994.csv (48Mb): https://dataverse.harvard.edu/file.xhtml?fileId=1374998&version=1.0
-    airports.csv (1MB): http://stat-computing.org/dataexpo/2009/supplemental-data.html
